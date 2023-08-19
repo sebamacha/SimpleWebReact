@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "../src/components/Navbar"; // Importa el componente Navbar desde el archivo correcto
+import Navbar from "../src/components/Navbar";
 import Footer from "./components/Footer";
 import "./App.css";
 import { Testimonio } from "./components/Testimonio";
